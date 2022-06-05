@@ -6,7 +6,7 @@
 */
 
 //—————「 Menu 」—————//
-exports.cok = (botname, pushname, salam) => {
+exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
